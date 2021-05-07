@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TVmaze Schedule</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="today">Today</string>
+    <string name="search">Search</string>
+    <string name="schedule_call">https://api.tvmaze.com/schedule?date=</string>
+    <string name="search_call">https://api.tvmaze.com/search/shows?q=</string>
+    <string name="network">Network:</string>
+    <string name="schedule">Schedule:</string>
+    <string name="status">Status:</string>
+    <string name="show_type">Show Type:</string>
+    <string name="genres">Genres:</string>
+    <string name="language">Language:</string>
+    <string name="rating">Rating:</string>
+    <string name="official_site">Official Site:</string>
+    <string name="next_episode">Next Episode</string>
+    <string name="desc">desc</string>
+</resources>
